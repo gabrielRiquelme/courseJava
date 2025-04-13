@@ -1,3 +1,5 @@
+package com.mycompany.cursojava.Strings;
+
 
 public class detallePersona {
     public static void main(String[] args){

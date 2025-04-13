@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class busquedaSubCadenas {
     public static void main(String[] args) {
         //Buscar subcadenas

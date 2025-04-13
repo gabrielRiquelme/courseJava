@@ -1,4 +1,4 @@
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license

@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 
 public class indicesCadenas {
     public static void main(String[] args) {

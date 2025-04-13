@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class inmutabilidadCadenas {
     public static void main(String[] args) {
         //Inmutabilidad Cadenas

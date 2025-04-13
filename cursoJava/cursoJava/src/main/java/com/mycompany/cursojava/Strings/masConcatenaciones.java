@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class masConcatenaciones {
     public static void main(String[] args) {
         // Mas formas de concatenar cadenas en JAVA.

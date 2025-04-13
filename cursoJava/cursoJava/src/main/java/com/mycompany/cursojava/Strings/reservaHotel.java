@@ -1,4 +1,4 @@
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class reservaHotel {
     public static void main(String[] args) {
         String nombreCliente="Juan Gabriel Riquelme";

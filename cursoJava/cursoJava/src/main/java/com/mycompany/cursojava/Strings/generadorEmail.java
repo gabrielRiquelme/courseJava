@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class generadorEmail {
     public static void main(String[] args) {
         String nombre= "Juan Riquelme";

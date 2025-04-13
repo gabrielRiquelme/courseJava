@@ -1,4 +1,4 @@
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 public class comparacionCadenas {
     public static void main(String[] args) {
         //Comparacion de cadenas (Pool de cadenas);

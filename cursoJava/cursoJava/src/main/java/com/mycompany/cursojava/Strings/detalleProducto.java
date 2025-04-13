@@ -1,5 +1,5 @@
 
-package com.mycompany.cursojava;
+package com.mycompany.cursojava.Strings;
 
 public class detalleProducto {
     public static void main(String[] args) {
