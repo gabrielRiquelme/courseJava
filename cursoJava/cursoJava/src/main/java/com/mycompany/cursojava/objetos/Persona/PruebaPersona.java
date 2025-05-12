@@ -1,4 +1,4 @@
-package com.mycompany.cursojava.objetos;
+package com.mycompany.cursojava.objetos.Persona;
 
 public class PruebaPersona {
     public static void main(String[] args) {
